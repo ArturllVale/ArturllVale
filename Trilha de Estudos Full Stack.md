@@ -6,18 +6,18 @@
 
 ### Fase 1: Fundamentos do JavaScript
 
-- [ ] **Conceitos Básicos:**
-  - [ ] Sintaxe básica do JavaScript
-  - [ ] Variáveis e tipos de dados
-  - [ ] Operadores e expressões
-  - [ ] Estruturas de controle (if, else, switch)
-  - [ ] Loops (for, while, do-while)
-  - [ ] Debugging e uso do console
+- [x] **Conceitos Básicos:**
+  - [x] Sintaxe básica do JavaScript
+  - [x] Variáveis e tipos de dados
+  - [x] Operadores e expressões
+  - [x] Estruturas de controle (if, else, switch)
+  - [x] Loops (for, while, do-while)
+  - [x] Debugging e uso do console
 
 - [ ] **Funções e Objetos:**
-  - [ ] Declaração de funções
+  - [x] Declaração de funções
   - [ ] Escopo e closures
-  - [ ] Objetos e arrays
+  - [x] Objetos e arrays
   - [ ] Manipulação de arrays e objetos
   - [ ] Prototype e herança
 
@@ -31,9 +31,9 @@
 ### Fase 2: Desenvolvimento Frontend com JavaScript
 
 - [ ] **HTML e CSS:**
-  - [ ] Estrutura básica de uma página HTML
+  - [x] Estrutura básica de uma página HTML
   - [ ] Estilização com CSS (Flexbox, Grid)
-  - [ ] Layouts responsivos
+  - [x] Layouts responsivos
   - [ ] Pré-processadores CSS (Sass)
 
 - [ ] **Bibliotecas e Frameworks:**
@@ -116,7 +116,7 @@
 ### Fase 5: Outras Habilidades e Softskills
 
 - [ ] **Git e GitHub:**
-  - [ ] Versionamento de código com Git
+  - [x] Versionamento de código com Git
   - [ ] Trabalho colaborativo com GitHub
 
 - [ ] **Docker:**
@@ -189,33 +189,7 @@
 - [ ] **WebSockets:** (opcional)
   - [ ] Tempo real com Django Channels ou Flask-SocketIO
 
-### Fase 3: Desenvolvimento Frontend com JavaScript
-
-- [ ] **HTML e CSS:**
-  - [ ] Estrutura básica de uma página HTML
-  - [ ] Estilização com CSS (Flexbox, Grid)
-  - [ ] Layouts responsivos
-  - [ ] Pré-processadores CSS (Sass)
-
-- [ ] **JavaScript Básico:**
-  - [ ] Manipulação do DOM
-  - [ ] Eventos
-  - [ ] Fetch API para requisições HTTP
-
-- [ ] **Bibliotecas e Frameworks:**
-  - [ ] **React.js ou Vue.js:** (Escolha um para aprender)
-    - [ ] Conceitos básicos e componentes
-    - [ ] State e props
-    - [ ] Comunicação entre componentes
-  - [ ] **Vuex:** (para gerenciamento de estado no Vue.js)
-  - [ ] **React Router ou Vue Router:** (para roteamento)
-
-- [ ] **Ferramentas e Build:**
-  - [ ] Webpack ou Vite
-  - [ ] ESLint e Prettier
-  - [ ] Testing (Jest, Cypress)
-
-### Fase 4: Integração e Deployment
+### Fase 3: Integração e Deployment
 
 - [ ] **RESTful APIs:**
   - [ ] Construção de APIs com Django Rest Framework ou Flask-Restful
@@ -236,7 +210,7 @@
   - [ ] Docker e containerização
   - [ ] Monitoramento e logging (Sentry, LogRocket)
 
-### Fase 5: Criação de Automação e Análise de Dados
+### Fase 4: Criação de Automação e Análise de Dados
 
 - [ ] **Automação:**
   - [ ] Scripts de automação com Python
@@ -261,7 +235,7 @@
 
 Para visualizar seu progresso, marque as caixas de seleção conforme você avança nos estudos. 
 
-- [ ] 0% Iniciado
+- [x] 5% Iniciado
 - [ ] 25% Progresso Inicial
 - [ ] 50% Metade Completa
 - [ ] 75% Quase Lá!
