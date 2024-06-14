@@ -18,7 +18,7 @@
   - [x] Declaração de funções
   - [ ] Escopo e closures
   - [x] Objetos e arrays
-  - [ ] Manipulação de arrays e objetos
+  - [x] Manipulação de arrays e objetos
   - [ ] Prototype e herança
 
 - [ ] **Conceitos Avançados:**
