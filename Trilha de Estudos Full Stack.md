@@ -23,7 +23,7 @@
 
 - [ ] **Conceitos Avançados:**
   - [ ] Funções de alta ordem
-  - [ ] Promises e Async/Await
+  - [x] Promises e Async/Await
   - [ ] Manipulação do DOM
   - [ ] Eventos
   - [ ] ES6+ Features (let, const, arrow functions, spread/rest operators, destructuring)
@@ -32,7 +32,7 @@
 
 - [ ] **HTML e CSS:**
   - [x] Estrutura básica de uma página HTML
-  - [ ] Estilização com CSS (Flexbox, Grid)
+  - [x] Estilização com CSS (Flexbox, Grid)
   - [x] Layouts responsivos
   - [ ] Pré-processadores CSS (Sass)
 
@@ -120,10 +120,11 @@
   - [ ] Trabalho colaborativo com GitHub
 
 - [ ] **Docker:**
-  - [ ] Conceitos básicos de containerização
-  - [ ] Dockerfile e Docker Compose
+  - [x] Conceitos básicos de containerização
+  - [x] Dockerfile e Docker Compose
 
 - [ ] **Kubernetes:**
+  - [x] Conceitos Básicos
   - [ ] Orquestração de contêineres com Kubernetes
 
 - [ ] **Testes TDD:**
