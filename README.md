@@ -1,22 +1,69 @@
-# 💫 About Me:
-📔 Estudante de programação!<br>🧑‍💻 Futuro Dev Full Stack<br>📫 Pará/Brasil<br>📖 Atualmente cursando ADS<br>🔗 [Trilha de Estudos Full Stack](https://bit.ly/3KAtjWI)
-<br>⚡ Em breve disponível no mercado ; )
+<h1 align="center">Artur Vale</h1>
 
+<p align="center">
+  Desenvolvedor Full Stack focado em performance, escalabilidade e experiências modernas
+</p>
 
-## 🌐 Socials:
-| [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lumenbr) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-vale-802565173) | [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ArturVale) |
-|---|---|---|
-
-# 💻 Tech Stack:
-
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-|---|---|---|---|---|
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArturllVale&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturllVale&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://codepen.io/ArturVale" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArturllVale&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Sobre
+
+Desenvolvedor apaixonado por tecnologia, com foco em construir aplicações rápidas, escaláveis e bem estruturadas.
+
+Atuo tanto no front-end quanto no back-end, criando soluções completas que vão desde interfaces modernas até arquiteturas robustas no servidor.
+
+Sempre buscando evoluir, aprender novas tecnologias e desenvolver projetos com alto nível de qualidade.
+
+---
+
+## Stack Principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,mysql" />
+</p>
+
+---
+
+## O que eu foco
+
+- Desenvolvimento Full Stack moderno
+- APIs performáticas e escaláveis
+- Otimização de performance
+- Arquitetura limpa e organizada
+- Experiência do usuário (UX/UI)
+
+---
+
+## Estatísticas
+
+<p align="center">
+  Em construção
+</p>
+
+---
+
+## Atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArturllVale&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Visitantes
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ArturllVale&icon=3&color=0"/>
+</p>
+
+---
+
+<p align="center">
+  Construindo projetos cada vez mais sólidos e impactantes
+</p>
