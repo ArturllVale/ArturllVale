@@ -43,7 +43,7 @@ Sempre buscando evoluir, aprender novas tecnologias e desenvolver projetos com a
 ## Estatísticas
 
 <p align="center">
-  Em construção
+  <img src="https://nirzak-trophies.vercel.app/?username=ArturllVale&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Sempre buscando evoluir, aprender novas tecnologias e desenvolver projetos com a
 ## Visitantes
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ArturllVale&icon=3&color=0"/>
+  <img src="https://komarev.com/ghpvc/?username=ArturllVale&label=Visitantes&color=0e75b6&style=flat" alt="Visitantes" />
 </p>
 
 ---
